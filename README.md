@@ -46,6 +46,8 @@ docker run -p 3000:3000 -d --name celestialchat-container celestialchat
 
 The easiest way to deploy is 
 
+- [![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/suzushi-tw/celestialchat/)
+- 
 - [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsuzushi-tw%2Fcelestialchat&env=ANTHROPIC_API_KEY,TAVILY_API_KEY)
 
 - [![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/suzushi-tw/celestialchat/tree/main&refcode=11745b6395ca)
